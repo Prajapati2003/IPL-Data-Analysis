@@ -105,6 +105,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 * Kaggle IPL datasets
 * Open-source community
 
----
 
-If you like, I can also help you **generate the requirements.txt** or a **starter Jupyter notebook** to go with it — just say **yes**!
